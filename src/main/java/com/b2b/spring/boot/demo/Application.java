@@ -35,7 +35,7 @@ public class Application {
 //}
 
 
-//Testo prova develop
-
+//Testo prova dal feature
+public String paceNelMondo;
 
 }
